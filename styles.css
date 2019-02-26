@@ -23,3 +23,13 @@ html, body {
   top: 15px;
   z-index: 20000;
 }
+
+.overlay {
+  background: gray;
+  position: absolute;
+  right: 15px;
+  top: 75px;
+  padding: 10px;
+  width: 75px;
+  z-index: 20000;
+}
